@@ -1,0 +1,6 @@
+# Recursion Practice Problems with Solutions
+
+Recursion is a problem-solving technique that involves breaking a problem into smaller instances of the same problem (also called subproblems) until we get a small enough subproblem having a trivial solution. We can say that recursion is “defining a problem in terms of itself” as it involves a function calling itself with a base case to terminate the infinite loop.
+
+Recursion is an important concept in computer science and a very powerful tool in writing algorithms. It allows us to write very elegant solutions to problems that may otherwise be very difficult to implement iteratively. It might be a little confusing and difficult to understand, especially for beginners but once you understand it, a whole new world of programming will open for you. Recursion just takes practice to get good at and nothing is more interesting than finding a solution to a problem the recursive way.
+
